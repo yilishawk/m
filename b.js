@@ -4,15 +4,6 @@
 
 {"sites": [ 
   {
-    "key": "csp_Enlienli",
-    "name": "嗯哩嗯哩",
-    "type": 3,
-    "api": "csp_Enlienli",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1
-  },
-  {
     "key": "guangsuapi",
     "name": "光速推荐1",
     "type": 0,
@@ -24,6 +15,13 @@
     "name": "快播切片推荐2",
     "type": 0,
     "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+    "playUrl": ""
+  },
+      {
+      "key": "wujinapi",
+    "name": "无尽资源妙播3",
+    "type": 0,
+    "api": "https://api.wujinapi.net/api.php/provide/vod/from/wjm3u8/at/xml/",
     "playUrl": ""
   },
   {
@@ -120,6 +118,15 @@
     "name": "9E看看",
     "type": 3,
     "api": "csp_Nekk",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+  },
+    {
+    "key": "csp_Enlienli",
+    "name": "嗯哩嗯哩",
+    "type": 3,
+    "api": "csp_Enlienli",
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 1
