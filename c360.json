@@ -78,7 +78,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/348dianying.json"
+            "ext": "https://yilishawk.github.io/mao/348.json"
         },
         {
             "key": "csp_xpath_dadagui",
@@ -88,7 +88,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/dadagui.json"
+            "ext": "https://yilishawk.github.io/mao/dadagui.json"
         },
         {
             "key": "csp_xpath_jubaibai",
@@ -98,7 +98,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/jubaibai.json"
+            "ext": "https://yilishawk.github.io/mao/jubaibai.json"
         },
         {
             "key": "csp_xpath_juhuang",
@@ -108,7 +108,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/juhuangtv.json"
+            "ext": "https://yilishawk.github.io/mao/guangju.json"
         },
         {
             "key": "csp_xpath_yanaifei",
@@ -118,7 +118,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/yanaifei.json"
+            "ext": "https://yilishawk.github.io/mao/naifeiya.json"
         },
         {
             "key": "csp_xpath_tiantian",
@@ -128,7 +128,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/tiantianyingshi.json"
+            "ext": "https://yilishawk.github.io/mao/tiantianyingshi.json"
         },
         {
             "key": "csp_xpath_auete",
@@ -138,7 +138,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/auete.json"
+            "ext": "https://yilishawk.github.io/mao/auete.json"
         },
         {
             "key": "csp_xpath_cokemv",
@@ -148,7 +148,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/cokemv.json"
+            "ext": "https://yilishawk.github.io/mao/cokemv.json"
         },
         {
             "key": "Gimy",
