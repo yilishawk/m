@@ -12,9 +12,10 @@
     "quickSearch": 0,
     "filterable": 1
   },
+  {"key": "csp_77","name": "七七推荐","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
     "key": "guangsuapi",
-    "name": "凯哥推荐1",
+    "name": "推荐1",
     "type": 0,
     "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
     "playUrl": "",
@@ -35,20 +36,61 @@
     "欧美剧"
     ]
   },
+ {
+    "key": "8kvod",
+    "name": "8kvod推荐4",
+    "type": 0,
+    "api": "http://tvappjsonapi.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml/",
+    "playUrl": ""
+  },
+  {"key":"csp_appysv2_红豆","name":"红豆推荐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.kan365.xyz/api.php/app/"},
   {
     "key": "gfzycj",
-    "name": "凯哥推荐2",
+    "name": "推荐2",
     "type": 0,
     "api": "https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml/",
-    "playUrl": ""
+    "playUrl": "",
+    "categories": [
+    "国产剧",
+    "港台剧",
+    "日韩剧",
+    "欧美剧",
+    "泰剧",
+    "综艺",
+    "动漫",
+    "动作片",
+    "喜剧片",
+    "爱情片",
+    "科幻片",
+    "恐怖片",
+    "剧情片",
+    "战争片",
+    "纪录片"
+    ]
   },
 {"key":"csp_xpath_01-专线01","name":"乐猪tv专线","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/wkyilisha/mao/raw/master/lztv.json"},
   {
-    "key": "pianku",
-    "name": "腾讯视频资源",
+    "key": "xinlongapi",
+    "name": "推荐3",
     "type": 0,
-    "api": "https://pianku.wang/api.php/provide/vod/from/qq/at/xml/	",
-    "playUrl": ""
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
+    "playUrl": "",
+    "categories": [
+    "综艺",
+    "动漫",
+    "动作",
+    "喜剧片",
+    "爱情片",
+    "科幻片",
+    "恐怖片",
+    "剧情片",
+    "战争片",
+    "大陆剧",
+    "港澳剧",
+    "韩剧",
+    "动漫电影",
+    "欧美剧"
+    ]
   },
   {
     "key": "pianku",
@@ -665,6 +707,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name": "小书抓包","type": 1,"url": "https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url="},
 {"name": "解析56","type": 1,"url": "https://svip.rongxingvr.top/api/?key=B26J6jO5MOnjUv3GqW&url="},
 {"name": "解析57","type": 1,"url": "https://svip.96ad.cn/api/?key=X7Vkvh9PebwiB6wXwR&url="},
 {"name": "解析58","type": 1,"url": "https://svip.96ad.cn/1json/?url="},
@@ -728,7 +771,7 @@
 {"name": "解析53","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="},
 {"name": "解析54","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
-"spider":"https://gitee.com/wkyilisha/mao/raw/master/custom_spider.jar;md5;71324bbe69b3a59348ceae5e9b9e0a28",
+"spider":"https://gitee.com/wkyilisha/mao/raw/master/custom_spider.jar;md5;01a4ac9109a0602124cee4feddc1971e",
 
 
 "ijk": [
