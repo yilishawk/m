@@ -9,6 +9,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
+        {
+      "key": "vvdy",
+      "name": "*VV黄",
+      "type": 0,
+      "api": "https://vvdy.org/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "cr60",
       "name": "*白嫖资源",
