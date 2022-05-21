@@ -19,6 +19,63 @@
       "filterable": 0
     },
     {
+      "key": "yilans",
+      "name": "8090资源",
+      "type": 0,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "zycaiji",
+      "name": "M3U8.TV资源",
+      "type": 0,
+      "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "wabc",
+      "name": "爱奇艺直采",
+      "type": 0,
+      "api": "https://wabc.ml/mao/2.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "360_spider",
+      "name": "360影院(官源)",
+      "type": 3,
+      "api": "csp_YS360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yilishawk.github.io/mao/360kan.json"
+    },
+    {
+      "key": "2345_spider",
+      "name": "2345影院(官源)",
+      "type": 3,
+      "api": "csp_YS2345",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yilishawk.github.io/mao/2345.json"
+    },
+    {
+      "key": "sogou_spider",
+      "name": "搜狗影院(官源)",
+      "type": 3,
+      "api": "csp_YSSogou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078651/0"
+    },
+    {
       "key": "foxzyapi",
       "name": "fox(sp)",
       "type": 0,
@@ -173,30 +230,13 @@
       ]
     },
     {
-      "key": "8kvod",
-      "name": "8kvod(sp)",
+      "key": "ikaola",
+      "name": "考拉(sp)",
       "type": 0,
-      "api": "http://tvappjsonapi.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml/",
+      "api": "https://ikaola.tv/api.php/provide/vod/from/kbm3u8/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
+      "filterable": 0
     },
     {
       "key": "csp_appysv2_35影视<MB>",
@@ -584,6 +624,41 @@
       "url": "https://jx.iztyy.com/Bei/jx.php?url="
     },
     {
+      "name": "103",
+      "type": 1,
+      "url": "http://103.40.240.46/jh/?url="
+    },
+    {
+      "name": "234",
+      "type": 0,
+      "url": "https://jmwl.qd234.cn/v/?v="
+    },
+    {
+      "name": "maogo",
+      "type": 1,
+      "url": "https://json.hfyrw.com/mao.go?url="
+    },
+    {
+      "name": "parwix",
+      "type": 0,
+      "url": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "全能VIP",
+      "type": 0,
+      "url": "https://jx.cxk8.com?v="
+    },
+    {
+      "name": "51",
+      "type": 1,
+      "url": "https://json.5lp.net/json.php?url="
+    },
+    {
+      "name": "蓝光解析",
+      "type": 0,
+      "url": "https://bf.ppjbk.cn/?url="
+    },
+    {
       "name": "618",
       "type": 0,
       "url": "https://jx.618g.com/?url="
@@ -622,11 +697,6 @@
       "name": "pj",
       "type": 0,
       "url": "https://jx.ppjbk.cn/?url="
-    },
-    {
-      "name": "蓝光解析",
-      "type": 0,
-      "url": "https://bf.ppjbk.cn/?url="
     },
     {
       "name": "OK",
@@ -1079,5 +1149,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://i.ibb.co/9rcmg7n/cat.jpg",
-  "spider": "https://gitee.com/wkyilisha/mao/raw/master/custom_spider_360.jar"
+  "spider": "https://gitea.com/wkyilisha/m/raw/branch/main/custom_spider_360.jar"
 }
