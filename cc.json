@@ -10,6 +10,15 @@
       "filterable": 1
     },
     {
+      "key": "Kmys_spider",
+      "name": "酷猫(SP)",
+      "type": 3,
+      "api": "csp_Kmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "so2",
       "name": "UNSS妙播",
       "type": 0,
