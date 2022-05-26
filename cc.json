@@ -622,6 +622,10 @@
       "type": 1,
       "url": "https://vip.slidc.top/home/api?type=ys&uid=668897&key=dhlmpuvxzCIJMOPT35&url="
     },
+{"name":"58解析","type":0,"url":"https://jx.58g8.com/2/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"]}},
+{"name":"明人","type":0,"url":"https://parse.123mingren.com/Bei/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","letv","乐视","xigua","西瓜"]}},
+{"name":"明人1","type":0,"url":"https://parse.123mingren.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"]}},
+{"name":"8090","type":0,"url":"https://czy.davdy.com/8090/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","youku","优酷","letv","乐视","xigua","西瓜"]}},
     {
       "name": "123",
       "type": 1,
