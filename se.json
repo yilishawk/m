@@ -426,7 +426,7 @@
       "api": "https://sdszyapi.com/home/cjapi/asbb/mc/vod/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 0
     },
     {
       "key": "cr02",
